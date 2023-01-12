@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x06. Python - Classes and Objects
 ==================================
 
@@ -485,3 +486,6 @@ guillaume@ubuntu:~/0x06$
 -   File: `6-square.py
 
 Leo Kapfudzaruwa`
+=======
+# Solutions to tasks on 0x06. Python - Classes and Objects 
+>>>>>>> ef0dafb725f1ce90803cd471edf8679638776c40

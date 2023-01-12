@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x09. Python - Everything is object
 ===================================
 
@@ -950,3 +951,6 @@ Assuming we are using a CPython implementation of Python3 with default options/c
 -   GitHub repository: `alx-higher_level_programming`
 -   Directory: `0x09-python-everything_is_object`
 -   File: `106-line1.txt, 106-line2.txt, 106-line3.txt, 106-line4.txt, 106-line5.txt`
+=======
+# Solutions to Python - Everything is object
+>>>>>>> ef0dafb725f1ce90803cd471edf8679638776c40

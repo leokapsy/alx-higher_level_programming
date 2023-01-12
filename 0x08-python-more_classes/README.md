@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 0x08. Python - More Classes and Objects
@@ -848,3 +849,6 @@ julien@ubuntu:~/0x08. N Queens$
  Done? Help Check your code Ask for a new correction Get a sandbox QA Review
 
 Copyright © 2021 Holberton Inc, All rights reserved.
+=======
+# solution to tasks on 0x08. Python - More Classes and Objects
+>>>>>>> ef0dafb725f1ce90803cd471edf8679638776c40
